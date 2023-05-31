@@ -34,4 +34,9 @@ Slide-in title animation
 
 https://user-images.githubusercontent.com/19414503/185143878-db7a50af-8099-45c4-a1e5-f03483fc4da0.mov
 
+## [useIosWidget()](/src/hooks/useIosWidget.ts)
+iOS-like widget animation
+
+https://github.com/OmiSoftNet/alacrity/assets/19414503/fa06f00e-57fb-4959-9299-469ea931029c
+
 
