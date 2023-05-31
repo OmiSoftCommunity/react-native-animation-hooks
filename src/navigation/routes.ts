@@ -5,4 +5,5 @@ export const Routes = {
   ExpandHeader: "ExpandHeader",
   AnimatedSearch: "AnimatedSearch",
   SlideToHeader: "SlideToHeader",
+  IosWidget: "IosWidget",
 };
